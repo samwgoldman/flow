@@ -1,0 +1,21 @@
+42,57d41
+< proptype_objectOf.js:6:10,57: objectOf
+< This type is incompatible with
+<   proptype_objectOf.js:13:37,37: number
+< 
+< proptype_objectOf.js:11:32,47: object literal
+< Objects do not have the same properties
+<   proptype_objectOf.js:6:10,57: objectOf
+< 
+< proptype_objectOf.js:13:37,37: number
+< This type is incompatible with
+<   proptype_objectOf.js:6:10,57: objectOf
+< 
+< proptype_objectOf.js:14:41,52: object literal
+< Objects do not have the same properties
+<   proptype_objectOf.js:6:10,57: objectOf
+< 
+62c46
+< Found 15 errors
+---
+> Found 11 errors
