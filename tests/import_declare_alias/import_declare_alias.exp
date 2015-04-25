@@ -1,0 +1,10 @@
+
+foo.js:3:14,14: number
+This type is incompatible with
+  [LIB] lib.js:1:1,3:1: LibFoo
+
+import_declare_alias.js:3:14,14: number
+This type is incompatible with
+  [LIB] lib.js:1:1,3:1: LibFoo
+
+Found 1 error
